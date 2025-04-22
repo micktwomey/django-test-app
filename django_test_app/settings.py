@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-c(ryl(=-f2n)r3rxoe3qwss22pamdjj2+ng=*6ak@7djo4oru)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    ".spock.replit.dev"
+]
 
 
 # Application definition
