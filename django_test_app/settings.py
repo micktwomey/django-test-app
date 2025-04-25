@@ -31,6 +31,7 @@ ALLOWED_HOSTS = [
     ".fly.dev",
     ".eu.pythonanywhere.com",
     ".pythonanywhere.com",
+    ".onrender.com",
 ]
 
 
