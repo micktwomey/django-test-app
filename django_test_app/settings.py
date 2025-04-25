@@ -29,6 +29,8 @@ ALLOWED_HOSTS = [
     "localhost",
     ".spock.replit.dev",
     ".fly.dev",
+    ".eu.pythonanywhere.com",
+    ".pythonanywhere.com",
 ]
 
 
